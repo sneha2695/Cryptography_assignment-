@@ -19,3 +19,7 @@ Decrypted data:
 789101
 Final Card number:
 1234567891011123
+
+#assignmet2 
+
+Written answers down and scanned them and put it as PDF
